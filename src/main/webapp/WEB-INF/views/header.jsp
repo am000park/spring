@@ -20,8 +20,8 @@
         </form>
 
         <div class="text-end">
-          <a href="/member/login" class="btn btn-outline-light me-2">Login</a>
-          <a href="/member/register" class="btn btn-warning">Sign-up</a>
+          <a href="/login" class="btn btn-outline-light me-2">Login</a>
+          <a href="/signup" class="btn btn-warning">Sign-up</a>
         </div>
       </div>
     </div>
