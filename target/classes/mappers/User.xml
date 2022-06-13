@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<sqlMap namespace="mapping.sqlMap.User">
+	
+	<insert id="UserDAO.insert" parameterClass="mc.user.UserVO">
+		INSERT INTO `user` (
+		) VALUES (
+		)
+	</insert>
+	
+</sqlMap>
